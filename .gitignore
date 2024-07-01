@@ -4,3 +4,5 @@ Assets
 Configure
 /Homework/Questions
 .ipynb_checkpoints
+__pycache__
+*.md
