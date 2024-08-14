@@ -13,7 +13,7 @@ st.set_page_config(page_title="YOLO_v10_Comprehensive",
 # Title of the main page
 st.title("Multi-Page App")
 
-# Add your pages here
+
 app.add_page("Page 1", checking_pytorch_env.checking_pytorch_env().app)
 
 # Run the app
